@@ -15,6 +15,18 @@
         Console.WriteLine("Number of words: " + wordCount);
 
         // Additional code can be added here
+        if (wordCount <50)
+        {
+            Console.WriteLine("less speech ");
+        }
+        else if (wordCount >= 50 && wordCount > 250)
+        {
+            Console.WriteLine("recomended speech length");
+        }
+        else
+        {
+            Console.WriteLine("You talk too much, buddy");
+        }
     }
     public static int CountLetters(string input)
     {
