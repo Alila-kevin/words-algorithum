@@ -1,0 +1,15 @@
+D:\C#\project15m6\project15m6\bin\Debug\net7.0\project15m6.exe
+D:\C#\project15m6\project15m6\bin\Debug\net7.0\project15m6.deps.json
+D:\C#\project15m6\project15m6\bin\Debug\net7.0\project15m6.runtimeconfig.json
+D:\C#\project15m6\project15m6\bin\Debug\net7.0\project15m6.dll
+D:\C#\project15m6\project15m6\bin\Debug\net7.0\project15m6.pdb
+D:\C#\project15m6\project15m6\obj\Debug\net7.0\project15m6.csproj.AssemblyReference.cache
+D:\C#\project15m6\project15m6\obj\Debug\net7.0\project15m6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\project15m6\project15m6\obj\Debug\net7.0\project15m6.AssemblyInfoInputs.cache
+D:\C#\project15m6\project15m6\obj\Debug\net7.0\project15m6.AssemblyInfo.cs
+D:\C#\project15m6\project15m6\obj\Debug\net7.0\project15m6.csproj.CoreCompileInputs.cache
+D:\C#\project15m6\project15m6\obj\Debug\net7.0\project15m6.dll
+D:\C#\project15m6\project15m6\obj\Debug\net7.0\refint\project15m6.dll
+D:\C#\project15m6\project15m6\obj\Debug\net7.0\project15m6.pdb
+D:\C#\project15m6\project15m6\obj\Debug\net7.0\project15m6.genruntimeconfig.cache
+D:\C#\project15m6\project15m6\obj\Debug\net7.0\ref\project15m6.dll
